@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hellooooo
 
 <!--
 **saniya2912/saniya2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m passionate about robot manipulation and grasping! Every day, I explore how machines will not only “see” objects but also understand and interact with them—just like we do. From delicate grips to precise movements, my research focuses on the fascinating intersection of robot control and perception, where once-futuristic possibilities are becoming real.
+
+I’m seeking PhD positions and other research opportunities to push these boundaries further. If you’re looking for someone as excited about robot dexterity as I am, let’s connect!
